@@ -1,0 +1,2 @@
+# ScaarAI
+personal AI
